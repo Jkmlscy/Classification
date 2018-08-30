@@ -1,0 +1,4 @@
+roixmlfile=G:\Temp\应用示范子系统\Classification\城市用地分类_1\城市用地分类_2.xml
+method=Maximum
+unclassifiedfile=F:\应用示范处理子系统\Data\城市用地分类和建筑变化提取\20170509_tif.tif
+classifiedfile=G:\Temp\应用示范子系统\Classification\城市用地分类_1\20170509_城市用地分类_Max_Code3.img
